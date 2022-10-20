@@ -10,5 +10,5 @@ char la;
 for (la = 'a'; la <= 'z'; la++)
 _putchar(la);
 
-_putcharchar('\n');
+_putchar('\n');
 }
