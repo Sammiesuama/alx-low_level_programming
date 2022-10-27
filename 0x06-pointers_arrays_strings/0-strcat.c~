@@ -1,0 +1,7 @@
+#include "main.h"
+/**
+ * *_strcat - appends the src string to the dest string
+ *
+ *@dest: char to check
+ *@src: char to check
+ *Description: This will append the src
