@@ -1,0 +1,10 @@
+#include "main.h"
+/**
+ *reverse_array - reverse the content of an array of integers
+ *
+ *@a: pointer to int to check
+ *@n: int to check
+ *Return: 0 is success
+ */
+void reverse_array(int *a, int n)
+  
