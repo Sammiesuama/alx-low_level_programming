@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
- *main - add one line to this code so that the program prints a[2] = 98
+ *main - prints a[2] = 98
+ *Description: add one line to the program
  *Return: 0
  */
 int main(void)
