@@ -22,7 +22,7 @@ return (-1);
 for (elements = 0; elements < size; elements++)
 {
 /* my index variable is gonna be equal to *cmp */
-index = cmp(array[element]);
+index = cmp(array[elements]);
 /* condition if there is coincidence return int */
 if (index > 0)
 return (elements);
