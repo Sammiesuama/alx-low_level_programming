@@ -33,7 +33,7 @@ return;
 /* de reference to n to the data */
 /* so I can make the sum */
 n = head->n;
-/* recursively traverse the remaining nodes  */
+/* recursively traverse the remaining nodes */
 sumofnodes(head->next, sum);
 /* accumulate sum */
 *sum = *sum + n;
