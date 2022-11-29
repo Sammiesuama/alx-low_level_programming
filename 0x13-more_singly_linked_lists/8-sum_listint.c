@@ -1,5 +1,4 @@
 #include "lists.h"
-
 /**
  * sum_listint - sum all the data (n) of listint_t list
  * @head: a pointer to the head of the list
@@ -17,7 +16,6 @@ return (sum);
 }
 return (0);
 }
-
 /**
  * sumofnodes - find the sum of ndoes
  * @head: a pointer to the head of the lintint_t list
